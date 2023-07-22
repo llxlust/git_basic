@@ -7,5 +7,5 @@ const component2 = () => {
     
 }
 const component3 = () => {
-    //main com3
+    //main a
 }
