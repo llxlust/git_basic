@@ -3,3 +3,6 @@
 const component = () => {
     
 }
+const component2 = () => {
+    
+}
